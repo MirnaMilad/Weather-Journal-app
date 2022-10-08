@@ -3,6 +3,11 @@
 ## Overview
 This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 
+# Screen shots
+![Capture](https://user-images.githubusercontent.com/87475694/194706402-2e0407ce-b1e1-4d72-864b-30910008bf8f.JPG)
+
+![Capture2](https://user-images.githubusercontent.com/87475694/194706399-ef5a44e3-0dec-48bc-8634-1e2194355353.JPG)
+
 ## Instructions
 This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
 
@@ -20,7 +25,4 @@ In this project we :
 - used try and catch
 
 
-# Screen shots
-![Capture](https://user-images.githubusercontent.com/87475694/194706402-2e0407ce-b1e1-4d72-864b-30910008bf8f.JPG)
 
-![Capture2](https://user-images.githubusercontent.com/87475694/194706399-ef5a44e3-0dec-48bc-8634-1e2194355353.JPG)
