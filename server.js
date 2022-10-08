@@ -49,6 +49,6 @@ app.get("/getTemperature", data2 )
   const port = 3030;
 
   // function gives feed back to the command line
-  function running() {console.log(`The local host is running`)}
+  function running() {console.log(`The local host is running on port ${port}`)}
 
   app.listen(port, running)
