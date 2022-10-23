@@ -46,7 +46,7 @@ app.get("/getTemperature", data2 )
 
 
   // Setup Server
-  const port = 3030;
+  const port = process.env.PORT||3030;
 
   // function gives feed back to the command line
   function running() {console.log(`The local host is running on port ${port}`)}
