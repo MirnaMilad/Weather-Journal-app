@@ -1,10 +1,10 @@
 # Weather-Journal App Project
 
-##live
-https://w-j-a.herokuapp.com/
-
 ## Overview
 This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+
+## live
+https://w-j-a.herokuapp.com/
 
 # Screen shots
 ![Capture](https://user-images.githubusercontent.com/87475694/194706402-2e0407ce-b1e1-4d72-864b-30910008bf8f.JPG)
